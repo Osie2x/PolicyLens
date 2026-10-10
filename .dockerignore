@@ -1,0 +1,10 @@
+.git
+.env
+.runtime
+.venv
+**/__pycache__
+**/node_modules
+**/dist
+data/.index
+reports/*-cases.json
+frontend

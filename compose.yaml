@@ -1,0 +1,71 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: policylens
+      POSTGRES_USER: policylens
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, pg_isready -U policylens]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+  redis:
+    image: redis:7-alpine
+    command: [redis-server, --appendonly, 'yes']
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: [CMD, redis-cli, ping]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+  api:
+    build: .
+    environment: &backend-environment
+      POLICYLENS_DATABASE_URL: postgresql+psycopg://policylens:${POSTGRES_PASSWORD}@postgres:5432/policylens
+      POLICYLENS_REDIS_URL: redis://redis:6379/0
+      POLICYLENS_DEMO_MODE: ${POLICYLENS_DEMO_MODE:-true}
+      POLICYLENS_API_KEY: ${POLICYLENS_API_KEY:-}
+      POLICYLENS_ADMIN_KEY: ${POLICYLENS_ADMIN_KEY:-}
+      POLICYLENS_ENABLE_RERANKER: ${POLICYLENS_ENABLE_RERANKER:-false}
+      POLICYLENS_PROVIDER: ${POLICYLENS_PROVIDER:-extractive}
+      POLICYLENS_OLLAMA_URL: ${POLICYLENS_OLLAMA_URL:-http://ollama:11434}
+    volumes:
+      - model-cache:/home/app/.cache/huggingface
+      - index-cache:/app/data/.index
+    depends_on:
+      postgres: {condition: service_healthy}
+      redis: {condition: service_healthy}
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      start_period: 180s
+      interval: 15s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+  worker:
+    build: .
+    command: [python, -m, policylens.worker]
+    environment: *backend-environment
+    volumes:
+      - model-cache:/home/app/.cache/huggingface
+      - index-cache:/app/data/.index
+    depends_on:
+      api: {condition: service_healthy}
+    restart: unless-stopped
+  web:
+    build: ./frontend
+    ports: [127.0.0.1:8080:8080]
+    depends_on:
+      api: {condition: service_healthy}
+    restart: unless-stopped
+volumes:
+  postgres-data:
+  redis-data:
+  model-cache:
+  index-cache:

@@ -1,0 +1,4322 @@
+[
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-028",
+    "token_f1": 0.24083769633507854,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-024",
+    "token_f1": 0.04580152671755725,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.25806451612903225,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-028",
+    "token_f1": 0.18918918918918917,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-013",
+    "token_f1": 0.2672811059907834,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-005",
+    "token_f1": 0.22822822822822825,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-002",
+    "token_f1": 0.2677165354330709,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-013",
+    "token_f1": 0.01869158878504673,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.26,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.3473684210526316,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-021",
+    "token_f1": 0.26506024096385544,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-010",
+    "token_f1": 0.04444444444444444,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-013",
+    "token_f1": 0.02127659574468085,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-008",
+    "token_f1": 0.3025210084033614,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-016",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-022",
+    "token_f1": 0.15873015873015872,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-021",
+    "token_f1": 0.16417910447761194,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-028",
+    "token_f1": 0.18705035971223022,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-015",
+    "token_f1": 0.1005586592178771,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-010",
+    "token_f1": 0.2413793103448276,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-012",
+    "token_f1": 0.1686746987951807,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-008",
+    "token_f1": 0.025,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.13526570048309178,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-006",
+    "token_f1": 0.17177914110429446,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-001",
+    "token_f1": 0.24884792626728114,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-005",
+    "token_f1": 0.4973544973544974,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-031",
+    "token_f1": 0.024096385542168676,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-014",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-015",
+    "token_f1": 0.36363636363636365,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-004",
+    "token_f1": 0.05128205128205128,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-021",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-025",
+    "token_f1": 0.35121951219512193,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2153846153846154,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-019",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-017",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-027",
+    "token_f1": 0.13675213675213674,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-027",
+    "token_f1": 0.05607476635514019,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-002",
+    "token_f1": 0.27814569536423844,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-003",
+    "token_f1": 0.22222222222222224,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-006",
+    "token_f1": 0.3089430894308943,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-004",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-028",
+    "token_f1": 0.08108108108108109,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-012",
+    "token_f1": 0.21428571428571427,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-008",
+    "token_f1": 0.09917355371900827,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-007",
+    "token_f1": 0.04597701149425288,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Renewal Term",
+    "question": "What does this contract say about renewal term?",
+    "document_id": "cuad-027",
+    "token_f1": 0.12844036697247707,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-011",
+    "token_f1": 0.21374045801526714,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-015",
+    "token_f1": 0.3037974683544304,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-015",
+    "token_f1": 0.3157894736842105,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-002",
+    "token_f1": 0.2335766423357664,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3448275862068966,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-032",
+    "token_f1": 0.11764705882352938,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-026",
+    "token_f1": 0.025641025641025644,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-009",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-014",
+    "token_f1": 0.06896551724137932,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-003",
+    "token_f1": 0.16,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-019",
+    "token_f1": 0.23170731707317074,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-015",
+    "token_f1": 0.3382352941176471,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-010",
+    "token_f1": 0.2331288343558282,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-028",
+    "token_f1": 0.2906976744186046,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-006",
+    "token_f1": 0.015151515151515152,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-003",
+    "token_f1": 0.2711864406779661,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-009",
+    "token_f1": 0.14864864864864866,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-011",
+    "token_f1": 0.11764705882352941,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-028",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-031",
+    "token_f1": 0.07692307692307693,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.16080402010050251,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "citation_mismatch",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-020",
+    "token_f1": 0.20359281437125745,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "false_refusal",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-030",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-001",
+    "token_f1": 0.16,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-020",
+    "token_f1": 0.14814814814814814,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-005",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-017",
+    "token_f1": 0.16666666666666666,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-015",
+    "token_f1": 0.09302325581395349,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "answer_incomplete",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "retrieval_miss",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-022",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-013",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Insurance",
+    "question": "What does this contract say about insurance?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-011",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Customers",
+    "question": "What does this contract say about no-solicit of customers?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Disparagement",
+    "question": "What does this contract say about non-disparagement?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-002",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-018",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-008",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "bm25",
+    "class": "unsupported_answer",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-009",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-028",
+    "token_f1": 0.24083769633507854,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-028",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-005",
+    "token_f1": 0.22822822822822825,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-002",
+    "token_f1": 0.27586206896551724,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-013",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3235294117647059,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-028",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.38848920863309355,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-021",
+    "token_f1": 0.26506024096385544,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-013",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-008",
+    "token_f1": 0.3025210084033614,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-016",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "answer_incomplete",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-022",
+    "token_f1": 0.15873015873015872,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "answer_incomplete",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-021",
+    "token_f1": 0.1342281879194631,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-028",
+    "token_f1": 0.2571428571428572,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-015",
+    "token_f1": 0.08633093525179855,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-012",
+    "token_f1": 0.1686746987951807,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-008",
+    "token_f1": 0.03125,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.25,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-001",
+    "token_f1": 0.1842105263157895,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "answer_incomplete",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-006",
+    "token_f1": 0.10256410256410256,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-001",
+    "token_f1": 0.2547770700636942,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-005",
+    "token_f1": 0.34,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-031",
+    "token_f1": 0.057971014492753624,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-011",
+    "token_f1": 0.3740458015267175,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-014",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-017",
+    "token_f1": 0.16931216931216933,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-001",
+    "token_f1": 0.17567567567567569,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-010",
+    "token_f1": 0.23478260869565215,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-028",
+    "token_f1": 0.5567010309278351,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-027",
+    "token_f1": 0.29268292682926833,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-015",
+    "token_f1": 0.36363636363636365,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-004",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-021",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2406015037593985,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-019",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-017",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-002",
+    "token_f1": 0.31460674157303375,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-006",
+    "token_f1": 0.3711340206185567,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-004",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-028",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun)__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-023",
+    "token_f1": 0.37000000000000005,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-012",
+    "token_f1": 0.21428571428571427,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-008",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-008",
+    "token_f1": 0.09917355371900827,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-007",
+    "token_f1": 0.03007518796992481,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Renewal Term",
+    "question": "What does this contract say about renewal term?",
+    "document_id": "cuad-027",
+    "token_f1": 0.12844036697247707,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-013",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-011",
+    "token_f1": 0.17757009345794394,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-015",
+    "token_f1": 0.28571428571428575,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-015",
+    "token_f1": 0.2604166666666667,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-002",
+    "token_f1": 0.25882352941176473,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3448275862068966,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "answer_incomplete",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0888888888888889,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-026",
+    "token_f1": 0.025641025641025644,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-032",
+    "token_f1": 0.20606060606060606,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-009",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-014",
+    "token_f1": 0.06896551724137932,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-018",
+    "token_f1": 0.3404255319148936,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-003",
+    "token_f1": 0.17610062893081763,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-019",
+    "token_f1": 0.23170731707317074,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-027",
+    "token_f1": 0.33766233766233766,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-032",
+    "token_f1": 0.1,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-028",
+    "token_f1": 0.2906976744186046,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-006",
+    "token_f1": 0.021052631578947368,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-009",
+    "token_f1": 0.19999999999999998,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-028",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-031",
+    "token_f1": 0.03389830508474576,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.12987012987012989,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-020",
+    "token_f1": 0.23391812865497078,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-017",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "citation_mismatch",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-004",
+    "token_f1": 0.22702702702702704,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-001",
+    "token_f1": 0.13953488372093023,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-020",
+    "token_f1": 0.11666666666666667,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "false_refusal",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-005",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-015",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "retrieval_miss",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-022",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-013",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-011",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Customers",
+    "question": "What does this contract say about no-solicit of customers?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-002",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-018",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-008",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "dense",
+    "class": "unsupported_answer",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-009",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-028",
+    "token_f1": 0.24083769633507854,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.25806451612903225,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-028",
+    "token_f1": 0.1925925925925926,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-005",
+    "token_f1": 0.22822822822822825,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-002",
+    "token_f1": 0.27586206896551724,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-013",
+    "token_f1": 0.01869158878504673,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3235294117647059,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-021",
+    "token_f1": 0.26506024096385544,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-010",
+    "token_f1": 0.05825242718446602,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-013",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-008",
+    "token_f1": 0.3025210084033614,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-016",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-022",
+    "token_f1": 0.15873015873015872,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-021",
+    "token_f1": 0.08849557522123895,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-028",
+    "token_f1": 0.18705035971223022,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-015",
+    "token_f1": 0.1005586592178771,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-012",
+    "token_f1": 0.1686746987951807,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-008",
+    "token_f1": 0.06593406593406592,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.2184873949579832,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-006",
+    "token_f1": 0.09589041095890412,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-001",
+    "token_f1": 0.24884792626728114,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-005",
+    "token_f1": 0.34545454545454546,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-031",
+    "token_f1": 0.04081632653061224,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-014",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-028",
+    "token_f1": 0.5567010309278351,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-027",
+    "token_f1": 0.33707865168539325,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-015",
+    "token_f1": 0.36363636363636365,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-004",
+    "token_f1": 0.027777777777777776,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3870967741935483,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-021",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2153846153846154,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-019",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-017",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-027",
+    "token_f1": 0.02197802197802198,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-002",
+    "token_f1": 0.31460674157303375,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-006",
+    "token_f1": 0.3089430894308943,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-004",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-028",
+    "token_f1": 0.08108108108108109,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-012",
+    "token_f1": 0.21428571428571427,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-008",
+    "token_f1": 0.09917355371900827,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-007",
+    "token_f1": 0.04597701149425288,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Renewal Term",
+    "question": "What does this contract say about renewal term?",
+    "document_id": "cuad-027",
+    "token_f1": 0.12844036697247707,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-011",
+    "token_f1": 0.1958041958041958,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-015",
+    "token_f1": 0.23809523809523808,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-015",
+    "token_f1": 0.3157894736842105,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-002",
+    "token_f1": 0.2335766423357664,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3448275862068966,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "answer_incomplete",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-032",
+    "token_f1": 0.18604651162790695,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-026",
+    "token_f1": 0.025641025641025644,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-009",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-014",
+    "token_f1": 0.06896551724137932,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-003",
+    "token_f1": 0.21538461538461542,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-019",
+    "token_f1": 0.23170731707317074,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-027",
+    "token_f1": 0.33766233766233766,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-010",
+    "token_f1": 0.2331288343558282,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0909090909090909,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-028",
+    "token_f1": 0.2906976744186046,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-006",
+    "token_f1": 0.011904761904761906,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-009",
+    "token_f1": 0.16666666666666669,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-028",
+    "token_f1": 0.025316455696202535,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-031",
+    "token_f1": 0.021978021978021976,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.12440191387559808,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-020",
+    "token_f1": 0.23391812865497078,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-017",
+    "token_f1": 0.23280423280423276,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-001",
+    "token_f1": 0.13953488372093023,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-020",
+    "token_f1": 0.13333333333333333,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "false_refusal",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-005",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "citation_mismatch",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-017",
+    "token_f1": 0.1676646706586826,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-015",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "retrieval_miss",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-022",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-013",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Insurance",
+    "question": "What does this contract say about insurance?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-011",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Customers",
+    "question": "What does this contract say about no-solicit of customers?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-026",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Disparagement",
+    "question": "What does this contract say about non-disparagement?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-002",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-018",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-008",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid",
+    "class": "unsupported_answer",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-009",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-028",
+    "token_f1": 0.24083769633507854,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-024",
+    "token_f1": 0.041379310344827586,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.25806451612903225,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-028",
+    "token_f1": 0.1925925925925926,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-002",
+    "token_f1": 0.2608695652173913,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-013",
+    "token_f1": 0.01869158878504673,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3235294117647059,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.32584269662921345,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-021",
+    "token_f1": 0.26506024096385544,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-010",
+    "token_f1": 0.09999999999999999,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-013",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-008",
+    "token_f1": 0.3025210084033614,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-016",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-022",
+    "token_f1": 0.15873015873015872,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Third Party Beneficiary",
+    "question": "What does this contract say about third party beneficiary?",
+    "document_id": "cuad-021",
+    "token_f1": 0.16923076923076924,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-015",
+    "token_f1": 0.15384615384615385,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-012",
+    "token_f1": 0.1686746987951807,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-008",
+    "token_f1": 0.04285714285714286,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-011",
+    "token_f1": 0.24242424242424243,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-006",
+    "token_f1": 0.16969696969696968,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-005",
+    "token_f1": 0.4973544973544974,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-031",
+    "token_f1": 0.04081632653061224,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Governing Law",
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-014",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-009",
+    "token_f1": 0.24113475177304966,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-001",
+    "token_f1": 0.17567567567567569,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-028",
+    "token_f1": 0.5567010309278351,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-027",
+    "token_f1": 0.33663366336633666,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-015",
+    "token_f1": 0.36363636363636365,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-004",
+    "token_f1": 0.05128205128205128,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-032",
+    "token_f1": 0.39455782312925164,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-021",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-026",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-009",
+    "token_f1": 0.12121212121212122,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2153846153846154,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-019",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-017",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-027",
+    "token_f1": 0.15384615384615385,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-027",
+    "token_f1": 0.06976744186046512,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-002",
+    "token_f1": 0.27814569536423844,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Competitive Restriction Exception",
+    "question": "What does this contract say about competitive restriction exception?",
+    "document_id": "cuad-003",
+    "token_f1": 0.22222222222222224,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-006",
+    "token_f1": 0.3711340206185567,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-004",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-015",
+    "token_f1": 0.14953271028037382,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-028",
+    "token_f1": 0.08108108108108109,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-012",
+    "token_f1": 0.21428571428571427,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+    "question": "What does this contract say about minimum commitment?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-008",
+    "token_f1": 0.09917355371900827,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-007",
+    "token_f1": 0.03007518796992481,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Renewal Term",
+    "question": "What does this contract say about renewal term?",
+    "document_id": "cuad-027",
+    "token_f1": 0.12844036697247707,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-027",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-011",
+    "token_f1": 0.21374045801526714,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-015",
+    "token_f1": 0.2604166666666667,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-002",
+    "token_f1": 0.2335766423357664,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Warranty Duration",
+    "question": "What does this contract say about warranty duration?",
+    "document_id": "cuad-032",
+    "token_f1": 0.3448275862068966,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0923076923076923,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-026",
+    "token_f1": 0.018867924528301886,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-032",
+    "token_f1": 0.18633540372670807,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-009",
+    "token_f1": 0.3283582089552239,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-014",
+    "token_f1": 0.06896551724137932,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-003",
+    "token_f1": 0.21538461538461542,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-019",
+    "token_f1": 0.23170731707317074,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-015",
+    "token_f1": 0.3382352941176471,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-010",
+    "token_f1": 0.24427480916030533,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-032",
+    "token_f1": 0.15555555555555556,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Parties",
+    "question": "What does this contract say about parties?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-002",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-012",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-006",
+    "token_f1": 0.0625,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "citation_mismatch",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-003",
+    "token_f1": 0.2711864406779661,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Audit Rights",
+    "question": "What does this contract say about audit rights?",
+    "document_id": "cuad-009",
+    "token_f1": 0.15942028985507248,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Cap On Liability",
+    "question": "What does this contract say about cap on liability?",
+    "document_id": "cuad-011",
+    "token_f1": 0.1333333333333333,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC.__Change Of Control",
+    "question": "What does this contract say about change of control?",
+    "document_id": "cuad-003",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Document Name",
+    "question": "What does this contract say about document name?",
+    "document_id": "cuad-028",
+    "token_f1": 0.031746031746031744,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-031",
+    "token_f1": 0.07692307692307693,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Exclusivity",
+    "question": "What does this contract say about exclusivity?",
+    "document_id": "cuad-024",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Expiration Date",
+    "question": "What does this contract say about expiration date?",
+    "document_id": "cuad-002",
+    "token_f1": 0.12669683257918551,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Ip Ownership Assignment",
+    "question": "What does this contract say about ip ownership assignment?",
+    "document_id": "cuad-017",
+    "token_f1": 0.2838709677419355,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-001",
+    "token_f1": 0.13953488372093023,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "false_refusal",
+    "id": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Revenue/Profit Sharing",
+    "question": "What does this contract say about revenue/profit sharing?",
+    "document_id": "cuad-010",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Rofr/Rofo/Rofn",
+    "question": "What does this contract say about rofr/rofo/rofn?",
+    "document_id": "cuad-005",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "answer_incomplete",
+    "id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Termination For Convenience",
+    "question": "What does this contract say about termination for convenience?",
+    "document_id": "cuad-017",
+    "token_f1": 0.1929824561403509,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-015",
+    "token_f1": 0.13114754098360654,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Agreement Date",
+    "question": "What does this contract say about agreement date?",
+    "document_id": "cuad-032",
+    "token_f1": 0.0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "retrieval_miss",
+    "id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Anti-Assignment",
+    "question": "What does this contract say about anti-assignment?",
+    "document_id": "cuad-022",
+    "token_f1": 0.0,
+    "status": "abstained"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Covenant Not To Sue",
+    "question": "What does this contract say about covenant not to sue?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__License Grant",
+    "question": "What does this contract say about license grant?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Non-Compete",
+    "question": "What does this contract say about non-compete?",
+    "document_id": "cuad-002",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement__Post-Termination Services",
+    "question": "What does this contract say about post-termination services?",
+    "document_id": "cuad-013",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Joint Ip Ownership",
+    "question": "What does this contract say about joint ip ownership?",
+    "document_id": "cuad-016",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Effective Date",
+    "question": "What does this contract say about effective date?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Insurance",
+    "question": "What does this contract say about insurance?",
+    "document_id": "cuad-031",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Volume Restriction",
+    "question": "What does this contract say about volume restriction?",
+    "document_id": "cuad-027",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Notice Period To Terminate Renewal",
+    "question": "What does this contract say about notice period to terminate renewal?",
+    "document_id": "cuad-011",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Customers",
+    "question": "What does this contract say about no-solicit of customers?",
+    "document_id": "cuad-007",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement__Most Favored Nation",
+    "question": "What does this contract say about most favored nation?",
+    "document_id": "cuad-026",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__Non-Disparagement",
+    "question": "What does this contract say about non-disparagement?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-002",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+    "question": "What does this contract say about unlimited/all-you-can-eat-license?",
+    "document_id": "cuad-018",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-008",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Non-Transferable License",
+    "question": "What does this contract say about non-transferable license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement__Irrevocable Or Perpetual License",
+    "question": "What does this contract say about irrevocable or perpetual license?",
+    "document_id": "cuad-030",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT__Uncapped Liability",
+    "question": "What does this contract say about uncapped liability?",
+    "document_id": "cuad-029",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1__No-Solicit Of Employees",
+    "question": "What does this contract say about no-solicit of employees?",
+    "document_id": "cuad-032",
+    "token_f1": 0,
+    "status": "answered"
+  },
+  {
+    "strategy": "hybrid+rerank",
+    "class": "unsupported_answer",
+    "id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Affiliate License-Licensee",
+    "question": "What does this contract say about affiliate license-licensee?",
+    "document_id": "cuad-009",
+    "token_f1": 0,
+    "status": "answered"
+  }
+]

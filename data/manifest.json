@@ -1,0 +1,24 @@
+{
+  "dataset": "CUAD v1 / Atticus Open Contract Dataset",
+  "creator": "The Atticus Project",
+  "license": "CC BY 4.0",
+  "kaggle_slug": "konradb/atticus-open-contract-dataset-aok-beta",
+  "kaggle_url": "https://www.kaggle.com/datasets/konradb/atticus-open-contract-dataset-aok-beta",
+  "archive_sha256": "ec5b9751cb1b246eda584272d5420ab79c4ec70c018bda90aac905a9d1504de4",
+  "json_sha256": "ed0b77d85bdf4014d7495800e8e4a70565b48ee6f8a2e5dca9cf8655dbf10eae",
+  "seed": 42,
+  "documents": 32,
+  "evaluation_rows": 240,
+  "expert_derived_positive": 160,
+  "expert_derived_absent": 40,
+  "programmatic_controls": 40,
+  "unique_control_prompts": 4,
+  "selection": "32 seeded contracts with 8k\u2013100k characters; round-robin clause types",
+  "limitations": [
+    "Adapted questions are not independently human-reviewed.",
+    "Absent CUAD label means not annotated, not proof of legal absence.",
+    "Text offsets are available; page numbers and policy dates are not inferred.",
+    "Contract-scoped retrieval; not a full-corpus or multi-document benchmark.",
+    "Control prompts are repeated across documents; report separately."
+  ]
+}
