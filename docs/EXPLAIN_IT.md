@@ -17,6 +17,9 @@ choices. Do not claim you manually labelled the CUAD examples or trained the pre
 
 ## Read the code in this order
 
+Start with [Follow one real contract query](QUERY_WALKTHROUGH.md) and `make trace`
+for a small reproducible experiment before reading every subsystem.
+
 1. `models.py`: what can a request and answer contain?
 2. `ingestion.py`: how does a chunk map back to the exact source text?
 3. `retrieval.py`: where do BM25 and cosine scores become ranked lists?

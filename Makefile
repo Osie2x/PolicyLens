@@ -1,4 +1,4 @@
-.PHONY: install api web worker evaluate check compose
+.PHONY: install api web worker evaluate check compose trace
 install:
 	uv sync --locked --extra dev --python 3.11
 	cd frontend && npm ci
@@ -10,6 +10,8 @@ worker:
 	uv run python -m policylens.worker
 evaluate:
 	OMP_NUM_THREADS=4 OPENBLAS_NUM_THREADS=1 uv run python scripts/evaluate.py --rerank
+trace:
+	uv run python scripts/trace_query.py
 check:
 	uv run ruff check backend scripts
 	uv run ruff format --check backend scripts

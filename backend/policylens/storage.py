@@ -164,7 +164,7 @@ class Store:
                 text(
                     "SELECT id, 1-(embedding <=> CAST(:q AS vector)) AS score "
                     "FROM embeddings WHERE corpus_version=:v "
-                    "AND (:doc IS NULL OR document_id=:doc) "
+                    "AND (CAST(:doc AS text) IS NULL OR document_id=:doc) "
                     "ORDER BY embedding <=> CAST(:q AS vector),id LIMIT 20"
                 ),
                 {"q": json.dumps(vector.tolist()), "v": version, "doc": document_id},

@@ -26,7 +26,15 @@ def test_pgvector_ranking_and_atomic_job_claim():
     store.sync_vectors(chunks, vectors, "integration-v1")
     results = store.dense_ranking(np.array([1, 0, 0]), "integration-v1", None)
     assert results[0][0] == chunks[0].id and results[0][1] == pytest.approx(1)
-    assert len(store.dense_ranking(np.array([1, 0, 0]), "integration-v1", "integration-b")) == 1
+    assert [row[0] for row in results] == [chunks[0].id, chunks[1].id]
+    for doc, expected in [
+        ("integration-a", [chunks[0].id]),
+        ("integration-b", [chunks[1].id]),
+        ("missing-document", []),
+    ]:
+        scoped = store.dense_ranking(np.array([1, 0, 0]), "integration-v1", doc)
+        assert [row[0] for row in scoped] == expected
+    assert store.dense_ranking(np.array([1, 0, 0]), "missing-version", None) == []
     key = store.enqueue({"operation": "reindex"})
     with ThreadPoolExecutor(max_workers=2) as pool:
         claimed = list(pool.map(lambda _: store.claim_job(), range(2)))
