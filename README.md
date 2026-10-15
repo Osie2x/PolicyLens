@@ -201,7 +201,8 @@ requires both keys. No key is embedded in the web bundle.
 | PostgreSQL/pgvector + Redis integration | Included in CI; not run locally |
 | Docker Compose / image runtime | Not run locally; Docker unavailable |
 | Ollama live inference | Adapter implemented; no local Ollama service tested |
-| GitHub Actions / public hosting | Pending repository publication and a verified run |
+| GitHub Actions | Published; October 10 frontend/image builds passed, backend pgvector test failed; [audit and proposed fix](docs/QUERY_WALKTHROUGH.md) |
+| Public hosting | October 10 Pages deployment failed; no live deployment verified |
 
 ```sh
 make check

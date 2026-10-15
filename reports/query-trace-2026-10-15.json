@@ -1,0 +1,28 @@
+{
+  "query": {
+    "question": "What does this contract say about governing law?",
+    "document_id": "cuad-001"
+  },
+  "document_title": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+  "corpus_sha256": "342e93c50e349cec81157f4a0ab2be04b035e964b588d34aadbba3db9a40f321",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "route": "retrieve",
+  "status": "answered",
+  "provider": "extractive",
+  "strategy": "hybrid",
+  "corpus_version": "0b33d23fe9fa2f7a",
+  "evidence_count": 5,
+  "claims_with_verified_offsets": [
+    {
+      "text": "12. GENERAL PROVISIONS.\n\n12.1 GOVERNING LAW.  This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles.",
+      "citation_id": "cuad-001:34",
+      "source_start": 21902,
+      "source_end": 22102
+    }
+  ],
+  "first_latency_ms": 20.92,
+  "repeat_latency_ms": 2.26,
+  "repeat_cached": true,
+  "scope": "One query, temporary SQLite, real pretrained MiniLM, in-process HTTP",
+  "limitations": "Exact source text does not prove relevance or completeness. Not a benchmark, concurrent load test, PostgreSQL test or deployed service."
+}
